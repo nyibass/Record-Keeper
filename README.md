@@ -4,4 +4,5 @@ how to run:
 - run the command line interface "python cli.py" (python must be installed)
 
 cli.py: command line interface code
+
 db.duckdb: database that the program references
